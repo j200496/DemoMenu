@@ -53,7 +53,6 @@ background-color: black;
 background-color: #1ebc5d;
 }
 .contenedor-texto {
-    background-image: url('img/rest.jpg');
     background-size: cover;
     background-position: center;
     height: 300px;
@@ -73,10 +72,10 @@ background-color: #1ebc5d;
     right: 20px;
 }
 #card{
-   background-color: rgb(3, 110, 26);
+   background-color: rgb(100, 102, 4);
 }
 .contcard{
-    background-color: rgb(163, 163, 5);
+    background-color: rgb(70, 70, 32);
 }
 .map-container {
     position: relative;
