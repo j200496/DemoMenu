@@ -53,7 +53,7 @@ background-color: black;
 background-color: #1ebc5d;
 }
 .contenedor-texto {
-    background-image: url('/img/rest.jpg');
+    background-image: url('img/rest.jpg');
     background-size: cover;
     background-position: center;
     height: 300px;
