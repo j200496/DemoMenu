@@ -9,3 +9,8 @@ ordenes.forEach(orden => {
         });
     });
 });
+
+const mofongo = document.getElementById('mofongo');
+mofongo.addEventListener('click',function(){
+window.location.href = 'mofong.htm';
+});
